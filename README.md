@@ -1,5 +1,7 @@
 
-[![](https://raw.githubusercontent.com/bkodes/github-stats/master/generated/overview.svg#gh-dark-mode-only)] 🏎️ [![](https://raw.githubusercontent.com/bkodes/github-stats/master/generated/languages.svg#gh-dark-mode-only)] 🏎️ [] 🏎️ [] 🏎️ []
+Director of Engineering @ Air AI :)
+
+If interested in Backend or Fullstack roles, please feel free to reach out!
 
 <!-- [![BKodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkodes&count_private=true&include_all_commits=true)](https://github.com/bkodes/github-readme-stats) -->
 <!--
