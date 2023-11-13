@@ -1,5 +1,5 @@
 
-Director of Engineering @ Air AI :)
+Director of Engineering @ Air AI
 
 If interested in Backend or Fullstack roles, please feel free to reach out!
 
