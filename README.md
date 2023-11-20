@@ -1,7 +1,7 @@
 
 Director of Engineering @ Air AI
 
-If interested in Backend or Fullstack roles, please feel free to reach out!
+If interested in Backend, Fullstack, or DevOps roles, please feel free to reach out!
 
 <!-- [![BKodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkodes&count_private=true&include_all_commits=true)](https://github.com/bkodes/github-readme-stats) -->
 <!--
