@@ -1,5 +1,4 @@
-
-Director of Engineering @ Air AI
+📚
 
 <!-- [![BKodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkodes&count_private=true&include_all_commits=true)](https://github.com/bkodes/github-readme-stats) -->
 <!--
